@@ -1,0 +1,32 @@
+# Dependensi npm
+node_modules/
+
+# File konfigurasi lingkungan (contoh: .env)
+.env
+
+# File log
+logs/
+*.log
+
+# File konfigurasi yang berisi informasi rahasia (contoh: config.js)
+config.js
+
+# File sementara yang dihasilkan saat pengembangan
+*.tmp
+
+# Folder yang berisi file build atau hasil bundling JavaScript (contoh: public/build)
+public/build/
+
+# Cache folder jika ada
+.cache/
+
+# File atau folder yang dibuat oleh editor atau IDE Anda
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Berkas sistem operasi (contoh: .DS_Store pada macOS)
+.DS_Store
+
+# Berkas sistem operasi Windows (contoh: Thumbs.db)
+Thumbs.db
